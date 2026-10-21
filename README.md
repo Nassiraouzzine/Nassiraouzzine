@@ -69,6 +69,9 @@ Automated workflow for collecting and analyzing competitive news and delivering 
 
 ## 🤝 Let's Connect
 
-Explore my repositories to discover my projects in Data Analytics, Data Engineering, and Artificial Intelligence.
+I'm always happy to connect with professionals and explore opportunities in Data Analytics, Business Intelligence, and Artificial Intelligence.
 
-- GitHub: [@Nassiraouzzine](https://github.com/Nassiraouzzine)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nassira-ouzzine-30611a2a7/)
+- 📧 **Email:** [ouzzine.nassira@outlook.com](mailto:ouzzine.nassira@outlook.com)
+- 💻 **GitHub:** [@Nassiraouzzine](https://github.com/Nassiraouzzine)
+
