@@ -1,77 +1,32 @@
-# Hi, I'm Nassira Ouzzine 👋
+# Nassira Ouzzine
 
-### Engineering Student | Data Analytics, Business Intelligence & AI
+**Data Analytics, Business Intelligence & IA**
 
-I'm a computer science engineering student at **IMT Nord Europe**, pursuing the **RAISE – Data Science and AI** program.
+Élève ingénieure à IMT Nord Europe (parcours RAISE, Data Science & IA), après
+une classe préparatoire (PSI) et l'Académie Internationale Mohammed VI de
+l'Aviation Civile. J'aime transformer des données en décisions : analyse,
+pipelines de données, modèles prédictifs et automatisation par LLM.
 
-I'm interested in turning data into actionable insights, building analytical solutions, and developing AI-powered applications.
+## Compétences
 
-## 👩‍💻 About Me
+- **Analyse de données et BI** : SQL, Python (Pandas, NumPy), Tableau,
+  analyse exploratoire, KPI, visualisation
+- **Data engineering** : pipelines ETL, DuckDB, dbt, modélisation OLTP / OLAP
+- **Machine learning et IA** : scikit-learn, XGBoost, deep learning
+  (TensorFlow, Keras), NLP
+- **Automatisation et outils** : n8n, Git et GitHub, Jupyter, Google Colab,
+  Streamlit
 
-- 🎓 Computer Science Engineering student at IMT Nord Europe
-- 📊 Interested in Data Analytics, Business Intelligence, and data visualization
-- 🤖 Exploring Machine Learning, Deep Learning, and Natural Language Processing
-- ⚙️ Interested in data pipelines, analytics engineering, and AI automation
-- 🚀 Building practical projects to strengthen my technical and analytical skills
+## Parcours
 
-## 🛠️ Technical Skills
+- **IMT Nord Europe**, Lille : double diplôme, parcours RAISE (2026 – présent)
+- **Académie Internationale Mohammed VI de l'Aviation Civile**, Casablanca :
+  diplôme d'ingénieur en génie informatique (2024 – présent)
+- **Classes préparatoires PSI**, Fès (2022 – 2024)
 
-**Data Analytics & BI**
-- SQL
-- Python, Pandas, NumPy
-- Tableau
-- Exploratory Data Analysis (EDA)
-- KPI Analysis and Data Visualization
+Langues : arabe (langue maternelle), français (B2–C1), anglais (B2).
 
-**Data Engineering**
-- ETL Pipelines
-- DuckDB
-- dbt
-- Data Modeling: OLTP and OLAP
+## Contact
 
-**Machine Learning & AI**
-- scikit-learn
-- XGBoost
-- Deep Learning
-- NLP and Transformers
-- ResNet50 and Grad-CAM
-
-**Automation & Tools**
-- n8n
-- Git and GitHub
-- Jupyter Notebook
-- Google Colab
-- Streamlit
-
-## 🚀 Featured Projects
-
-### 📊 E-commerce Analytics — Funnel, RFM & CLV
-Analysis of e-commerce performance through conversion funnel analysis, customer segmentation, and Customer Lifetime Value estimation. Includes an ETL pipeline and a Tableau dashboard.
-
-**Tech stack:** Python, SQL, DuckDB, dbt, Tableau
-
-### ✈️ Flight Delay Prediction
-Comparison of machine learning models to classify flight delays, including model evaluation and XGBoost optimization.
-
-**Tech stack:** Python, scikit-learn, XGBoost
-
-### 🔎 AI-Powered Competitive Intelligence
-Automated workflow for collecting and analyzing competitive news and delivering structured reports.
-
-**Tech stack:** n8n, Perplexity API, DeepSeek, Google Sheets
-
-## 🎯 Current Focus
-
-- Improving my Data Analytics and Business Intelligence skills
-- Developing robust data preparation and transformation pipelines
-- Exploring machine learning and applied AI
-- Building clear, reproducible, and well-documented projects
-
-## 🤝 Let's Connect
-
-I'm always happy to connect with professionals and explore opportunities in Data Analytics, Business Intelligence, and Artificial Intelligence.
-
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nassira-ouzzine-30611a2a7/)
-- 📧 **Email:** [ouzzine.nassira@outlook.com](mailto:ouzzine.nassira@outlook.com)
-- 💻 **GitHub:** [@Nassiraouzzine](https://github.com/Nassiraouzzine)
-
+[LinkedIn](https://www.linkedin.com/in/nassira-ouzzine-30611a2a7/) ·
+[ouzzine.nassira@outlook.com](mailto:ouzzine.nassira@outlook.com)
